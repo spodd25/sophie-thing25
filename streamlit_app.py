@@ -1,4 +1,4 @@
 import streamlit as st
 
-st.title("🎈 Sohie's App")
+st.title("🎈 Sophie's App")
 st.write("XXXX")
